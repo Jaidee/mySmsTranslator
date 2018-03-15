@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator.Android", "mySMSTranslator\mySMSTranslator.Android\mySMSTranslator.Android.csproj", "{3CF4498D-1F2D-40CE-A059-E1FAC13E97EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator.Android", "mySMSTranslator.Android\mySMSTranslator.Android.csproj", "{3CF4498D-1F2D-40CE-A059-E1FAC13E97EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator.iOS", "mySMSTranslator\mySMSTranslator.iOS\mySMSTranslator.iOS.csproj", "{D6CA0E8E-9FF3-45CE-AFE1-09382203F64F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator.iOS", "mySMSTranslator.iOS\mySMSTranslator.iOS.csproj", "{D6CA0E8E-9FF3-45CE-AFE1-09382203F64F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator.UWP", "mySMSTranslator\mySMSTranslator.UWP\mySMSTranslator.UWP.csproj", "{D371351E-88A4-435C-B006-50D287DD508A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator.UWP", "mySMSTranslator.UWP\mySMSTranslator.UWP.csproj", "{D371351E-88A4-435C-B006-50D287DD508A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator", "mySMSTranslator\mySMSTranslator\mySMSTranslator.csproj", "{0203D5C2-3937-48A0-8E00-B8A8A6B9D28D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mySMSTranslator", "mySMSTranslator\mySMSTranslator.csproj", "{0203D5C2-3937-48A0-8E00-B8A8A6B9D28D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
